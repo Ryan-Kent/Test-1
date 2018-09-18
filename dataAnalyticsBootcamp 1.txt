@@ -1,0 +1,2 @@
+smartgit
+bitbucket - allows private codesharing
